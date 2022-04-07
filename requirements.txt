@@ -2,3 +2,4 @@ pycaret==2.3
 pandas
 numpy
 streamlit
+python==3.8.13
